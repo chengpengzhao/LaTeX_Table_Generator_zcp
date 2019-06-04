@@ -8,11 +8,11 @@
 
 ​																——2019.06
 
-##在线版用法
+## 在线版用法
 
 网址： <https://chengpengzhao.com/LaTeX_Table_Generator_zcp/>
 
-##本地版用法
+## 本地版用法
 
 1. clone到本地
 2. 解压**[Offline-version]LaTeX_Table_Generator_zcp.rar**
