@@ -14,7 +14,7 @@
 
 ## 本地版用法
 
-1. clone到本地
+1. clone或download到本地
 2. 解压**[Offline-version]LaTeX_Table_Generator_zcp.rar**
 3. 双击文件夹里的 **latex_tables.htm**
 4. 愉快的制表吧~
