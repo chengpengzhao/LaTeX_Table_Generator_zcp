@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# LaTeX Table Generator_zcp
 
-You can use the [editor on GitHub](https://github.com/chengpengzhao/LaTeX_Table_Generator_zcp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [Tables Generator](http://www.tablesgenerator.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+可离线使用的生成LaTeX表格工具。
 
-```markdown
-Syntax highlighted code block
+​																——2019.06
 
-# Header 1
-## Header 2
-### Header 3
+##在线版用法
 
-- Bulleted
-- List
+网址： <https://chengpengzhao.com/latex_htm_zcp/>
 
-1. Numbered
-2. List
+##本地版用法
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengpengzhao/LaTeX_Table_Generator_zcp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. clone到本地
+2. 打开**latex_zcp**文件夹
+3. 双击 **LaTeX 公式编辑 with MathJax by zcp.htm**
+4. 愉快的输入公式吧~
